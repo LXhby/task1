@@ -1,3 +1,5 @@
 [submodule "1-"]
 	path = 1-
 	url = https://github.com/LXhby/1-.git
+	branch = master
+	ignore = all
